@@ -8,7 +8,8 @@ public class Laskuri{
 		if(alkuarvo < 0)
 			return;
 		this.tapahtumia = alkuarvo;
-	
+		
+	//muokattu githubissa
 
 	}
 	public Laskuri(){
