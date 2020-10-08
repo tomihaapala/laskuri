@@ -26,7 +26,7 @@ public class Laskuri{
     		this.tapahtumia = 0;
   	}
 	public String toString(){
-		return "Laskuri" + this.tapahtumia;
+		return "Laskuri" + this.tapahtumia ;
 	}
 
 }
